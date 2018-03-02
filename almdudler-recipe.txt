@@ -1,0 +1,8 @@
+ingredients:
+- apple juice
+- soda
+
+directions:
+take 1 portion applejuice
+mix some soda into it
+enjoy!
